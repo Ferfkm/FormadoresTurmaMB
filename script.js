@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
     const diminuiFonteBotao = document.getElementById('diminuir-fonte');
 
-    const alternaContraste = document.getElementById('alterna-contraste')
+    const alternaContraste = document.getElementById('alterna-contraste');
 
     let tamanhoAtualFonte = 1;
 
